@@ -1,0 +1,14 @@
+DEVELOPMENT LOG PROJECT 3 WEB DEVELOPMENT
+Team Members: Luis Fernando Villaseñor García, Jorge Antonio Maldonado Nuñez and Isabella Rosa Bismanns.
+
+Thurday: Luis started the project and imported the full MERN stack, along with axios and other needed components. Jorge came up with the structure of the page itself. 
+
+Friday: Luis made the personal API with the destinations.
+
+Saturday: Jorge and Luis started with the routing process of the page and had a lot of issues but were able to resolve them by the night. Isabella started designing the front end segment.
+
+Sunday: After contacting the professor with many doubts about REACT and calling the API with react, he was able to help the team after many hours to resolve the latter issue, while Isabella continued designing the front end.
+
+Monday:The professor helped us call the API to the site.
+
+Tuesday: Jorge and Luis added finishing touches to the project, like adding some CSS to certain texts, and perfected the format of the card that calls the API, where the information is presented.
