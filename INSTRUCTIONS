@@ -1,0 +1,4 @@
+You must have 2 terminals
+In the first one, at the root of the project you have to run the command "npm start"
+In the second one you have to first run the command "cd projectserver" and then run the command on that same terminal "node server.js"
+The site should then be up and running with everything in order.
